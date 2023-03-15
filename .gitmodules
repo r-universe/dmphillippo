@@ -8,3 +8,8 @@
 	url = https://github.com/dmphillippo/multinma
 	shallow = true
 	registered = true
+[submodule "nmathresh"]
+	path = nmathresh
+	url = https://github.com/dmphillippo/nmathresh
+	shallow = true
+	registered = true
